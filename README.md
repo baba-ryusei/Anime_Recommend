@@ -1,4 +1,4 @@
-## My work
+## My works
 - The first model that outputs the name of an anime that is similar to the synopsis when you input the synopsis.
   - GenNameBySyn_code
 - The second model that outputs recommended animations to users who have viewed the output animations.
